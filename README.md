@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vineet Kumar</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetkinhaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="vineetkinhaofficial" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vineetkinhaofficial" alt="vineetkinhaofficial" /></a> </p>
-
 - 🌱 I’m currently learning **Power BI, Python, SQL, Excel**
 
 - 📫 How to reach me **vineetkinha@outlook.com**
